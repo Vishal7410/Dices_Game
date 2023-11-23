@@ -1,5 +1,5 @@
 # Dices_Game
-Check Link : http://localhost:5173/
+Check Link : 
 Technologies Used:
 
 • HTML: To structure the game's user interface and 
